@@ -1,3 +1,3 @@
 # Clinia-reservas
+Proyecto del curso ingenieria de software
 Reservaciones...
-Poryecto del curso ingenieria de software
